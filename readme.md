@@ -5,7 +5,7 @@ This repository contains the implementation of the "Promptable Counterfactual Di
 ## Key Features
 
 - **Counterfactual Generation**: Generate specific healthy or unhealthy regions in MRI scans based on mask prompts.
-- **Transformer Integration**: Utilizes Transformer architecture instead of Unet for enhanced performance in the diffusion model.
+- **Transformer Integration**: Utilizes Transformer architecture for enhanced performance in the diffusion model.
 - **Enhanced Segmentation and Generation**: Utilizes sophisticated diffusion strategies to improve tumor segmentation and realistic tumor image generation.
 
 ## Installation
